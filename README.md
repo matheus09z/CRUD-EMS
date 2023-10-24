@@ -8,4 +8,5 @@ Tecnologias utilizadas:
 * Java 17
 * Lombok
 * MySQL
-* Spring data JPA 
+* Spring data JPA
+* Spring Web
